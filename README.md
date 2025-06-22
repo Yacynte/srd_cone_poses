@@ -15,3 +15,4 @@ Build the package using `colcon`:
 colcon build --packages-select keypoint_sorting
 source install/setup.sh
 ros2 run keypoint_sorting keypointClosesetNeighboor
+```
