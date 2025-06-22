@@ -8,7 +8,7 @@ First, clone the repository including its submodules:
 ```bash
 git clone --recurse-submodules git@github.com:Yacynte/srd_cone_poses.git
 cd srd_cone_poses
-´´´bash
+```
 Build the package using `colcon`:
 
 ```bash
