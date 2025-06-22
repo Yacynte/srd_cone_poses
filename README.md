@@ -6,7 +6,7 @@ Calculating Cone Poses from Stereo Camera System
 First, clone the repository including its submodules:
 
 ```bash
-git clone --recurse-submodules git@github.com:Yacynte/srd_cone_poses.git
+git clone git@github.com:Yacynte/srd_cone_poses.git
 cd srd_cone_poses
 ```
 Build the package using `colcon`:
